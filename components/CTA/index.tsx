@@ -29,12 +29,10 @@ const CTA = () => {
               className="animate_left md:w-[70%] lg:w-1/2"
             >
               <h2 className="text-black dark:text-white text-3xl xl:text-sectiontitle4 font-bold mb-4 w-11/12">
-                Join With Us Today & Increase Your Productivity
+                Contact Us Todat For a Boost in Your Business
               </h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
-                convallis tortor eros. Donec vitae tortor lacus. Phasellus
-                aliquam ante in maximus.
+                We provide exclusice prices for Startups to Boost their Businesses with Our Software Solutions.
               </p>
             </motion.div>
             <motion.div
@@ -56,33 +54,7 @@ const CTA = () => {
               className="animate_right lg:w-[45%]"
             >
               <div className="flex items-center justify-end xl:justify-between">
-                <Image
-                  width={299}
-                  height={299}
-                  src="./images/shape/shape-06.svg"
-                  alt="Saly"
-                  className="hidden xl:block"
-                />
-                <a
-                  href="signup.html"
-                  className="inline-flex items-center gap-2.5 font-medium text-white dark:text-black bg-black dark:bg-white rounded-full py-3 px-6 hover:opacity-90"
-                >
-                  Sign up free
-                  <Image
-                    width={20}
-                    height={20}
-                    src="./images/icon/icon-arrow-dark.svg"
-                    alt="Arrow"
-                    className="dark:hidden"
-                  />
-                  <Image
-                    width={20}
-                    height={20}
-                    src="./images/icon/icon-arrow-light.svg"
-                    alt="Arrow"
-                    className="hidden dark:block"
-                  />
-                </a>
+               
               </div>
             </motion.div>
           </div>

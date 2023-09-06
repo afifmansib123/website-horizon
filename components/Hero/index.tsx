@@ -87,7 +87,7 @@ const Hero = () => {
                   />
                   <Image
                     className="hidden dark:block shadow-solid-l"
-                    src="/another.gif"
+                    src="/image7.gif"
                     alt="Hero"
                     fill
                   />

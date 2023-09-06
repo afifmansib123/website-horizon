@@ -154,12 +154,7 @@ const Header = () => {
           <div className="flex items-center gap-6 mt-7 lg:mt-0">
             <ThemeToggler />
 
-            <Link
-              href="https://github.com/NextJSTemplates/solid-nextjs"
-              className="text-waterloo text-regular font-medium hover:text-primary"
-            >
-            GITHUB HORIZON
-            </Link>
+            
 
             
           </div>

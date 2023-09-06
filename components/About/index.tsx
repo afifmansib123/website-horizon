@@ -62,19 +62,18 @@ const About = () => {
             >
               <h4 className="text-black dark:text-white font-medium uppercase">
                 <span className="bg-meta text-white text-metatitle inline-flex rounded-full py-1 px-4.5 mr-4 mb-4 uppercase ">
-                  New
+                 Services
                 </span>{" "}
-                SaaS Boilerplate for Next.js
+                After Sales Maintenence and Repair
               </h4>
               <h2 className="relative font-bold text-black dark:text-white text-3xl xl:text-hero mb-6">
-                A Complete Solution for
+                After Sales Services 
                 <span className="inline-block relative before:absolute before:bottom-2.5 before:left-0 before:w-full before:h-3 before:bg-titlebg dark:before:bg-titlebgdark before:-z-1">
-                  SaaS Startup
+                 Maintenence and Repair
                 </span>
               </h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
-                ultricies lacus non fermentum ultrices. Fusce consectetur le.
+                We Provide after-sales services for certain applications once delivered. 
               </p>
 
               <div className="mt-7.5 flex items-center gap-5">
@@ -85,9 +84,9 @@ const About = () => {
                 </div>
                 <div className="w-3/4">
                   <h5 className="text-black dark:text-white text-metatitle2 mb-0.5">
-                    React 18, Next.js 13 and TypeScript
+                    Deployment, Ongoing Testing and Repair Services 
                   </h5>
-                  <p>Ut ultricies lacus non fermentum ultrices.</p>
+                  <p>A common case for many applications</p>
                 </div>
               </div>
               <div className="mt-7.5 flex items-center gap-5">
@@ -98,9 +97,9 @@ const About = () => {
                 </div>
                 <div className="w-3/4">
                   <h5 className="text-black dark:text-white text-metatitle2 mb-0.5">
-                    Fully Customizable
+                    Additional Features and Functions for Applications
                   </h5>
-                  <p>consectetur adipiscing elit fermentum ultricies.</p>
+                  <p>Are Applied to Applications developed by us or Others.</p>
                 </div>
               </div>
             </motion.div>
@@ -141,27 +140,16 @@ const About = () => {
                 </span>
               </h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
-                ultricies lacus non fermentum ultrices. Fusce consectetur le.
+              We specialize in crafting bespoke software solutions tailored to meet the unique requirements of our valued clients, ranging from comprehensive CRM systems to cutting-edge POS solutions and sophisticated administrative panel management tools
               </p>
               <div>
                 <a
                   href="#"
                   className="flex items-center gap-2.5 text-black dark:text-white mt-7.5 hover:text-primary dark:hover:text-primary"
                 >
-                  <span className="hover:pr-2 duration-500">Know More</span>
-                  <svg
-                    width="14"
-                    height="14"
-                    viewBox="0 0 14 14"
-                    xmlns="http://www.w3.org/2000/svg"
-                    className="dark:hidden"
-                  >
-                    <path
-                      d="M10.4767 6.16701L6.00668 1.69701L7.18501 0.518677L13.6667 7.00034L7.18501 13.482L6.00668 12.3037L10.4767 7.83368H0.333344V6.16701H10.4767Z"
-                      fill="currentColor"
-                    />
-                  </svg>
+                  <span className="hover:pr-2 duration-500"></span>
+                  
+                    
 
                   <svg
                     className="hidden dark:block"

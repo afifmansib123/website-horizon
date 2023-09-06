@@ -59,9 +59,7 @@ const FunFact = () => {
               Trusted by Global Companies.
             </h2>
             <p className="lg:w-11/12 mx-auto">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
-              convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam
-              ante in maximus.
+            Our portfolio of esteemed clients and globally-deployed applications serves as a testament to the uncompromising quality of our work.
             </p>
           </motion.div>
 
@@ -85,7 +83,7 @@ const FunFact = () => {
               className="animate_top text-center"
             >
               <h3 className="font-bold text-black dark:text-white text-3xl xl:text-sectiontitle3 mb-2.5">
-                500K
+                1K+
               </h3>
               <p className="text-lg lg:text-para2">World Wide Clients</p>
             </motion.div>
@@ -108,9 +106,9 @@ const FunFact = () => {
               className="animate_top text-center"
             >
               <h3 className="font-bold text-black dark:text-white text-3xl xl:text-sectiontitle3 mb-2.5">
-                1M+
+                20+
               </h3>
-              <p className="text-lg lg:text-para2">Downloads</p>
+              <p className="text-lg lg:text-para2">Partners</p>
             </motion.div>
             <motion.div
               variants={{
@@ -131,9 +129,9 @@ const FunFact = () => {
               className="animate_top text-center"
             >
               <h3 className="font-bold text-black dark:text-white text-3xl xl:text-sectiontitle3 mb-2.5">
-                865
+                100+
               </h3>
-              <p className="text-lg lg:text-para2">Winning Award</p>
+              <p className="text-lg lg:text-para2">Live Applications</p>
             </motion.div>
           </div>
         </div>

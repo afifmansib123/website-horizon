@@ -63,7 +63,7 @@ const FeaturesTab = () => {
               </div>
               <div className="lg:w-auto md:w-3/5">
                 <h5 className="text-black dark:text-white text-sm xl:text-regular font-medium">
-                  Clean User Interface
+                  POS solutions
                 </h5>
               </div>
             </div>
@@ -82,7 +82,7 @@ const FeaturesTab = () => {
               </div>
               <div className="lg:w-auto md:w-3/5">
                 <h5 className="text-black dark:text-white text-sm xl:text-regular font-medium">
-                  Essential Business Pages
+                  ERP and CRM solutions
                 </h5>
               </div>
             </div>
@@ -101,7 +101,7 @@ const FeaturesTab = () => {
               </div>
               <div className="lg:w-auto md:w-3/5">
                 <h5 className="text-black dark:text-white text-sm xl:text-regular font-medium">
-                  Fully Functional Integrations
+                  Application Development
                 </h5>
               </div>
             </div>
