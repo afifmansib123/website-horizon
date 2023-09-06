@@ -57,8 +57,8 @@ const Footer = () => {
                   href="#"
                   className="text-black dark:text-white font-medium text-itemtitle"
                 >
-                  nawaneetmohin.3@gmail.com
-                  +66 96 908 8084
+                  horitechth@gmail.com
+                  097-258-4220
                 </a>
               </motion.div>
  

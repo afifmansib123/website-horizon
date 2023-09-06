@@ -74,7 +74,7 @@ const Contact = () => {
                   Email Address
                 </h4>
                 <p>
-                  <a href="#">nawaneetmohin.3@gmail.com</a>
+                  <a href="#">horitechth@gmail.com</a>
                 </p>
               </div>
               <div>
@@ -82,7 +82,7 @@ const Contact = () => {
                   Phone Number
                 </h4>
                 <p>
-                  <a href="#">+66 96 908 8084</a>
+                  <a href="#">097-258-4220</a>
                 </p>
               </div>
             </motion.div>
