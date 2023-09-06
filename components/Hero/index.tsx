@@ -18,15 +18,15 @@ const Hero = () => {
           <div className="flex lg:items-center lg:gap-8 xl:gap-32.5">
             <div className=" md:w-1/2">
               <h4 className="text-black dark:text-white text-lg font-medium mb-4.5">
-                🔥 Solid - A Complete SaaS Web Template
+                Welcome To 
               </h4>
               <h1 className="text-black dark:text-white text-3xl xl:text-hero font-bold mb-5 pr-16 ">
-              Free Next.js Template for 
-                <span className="inline-block relative before:absolute before:bottom-2.5 before:left-0 before:w-full before:h-3 before:bg-titlebg dark:before:bg-titlebgdark before:-z-1 ml-2.5 ">SaaS
+              HORIZON INFO-TECH <br/>
+                <span className="inline-block relative before:absolute before:bottom-2.5 before:left-0 before:w-full before:h-3 before:bg-titlebg dark:before:bg-titlebgdark before:-z-1 ml-2.5 ">SaaS expert
                 </span>
               </h1>
               <p>
-Solid Pro - Packed with all the key integrations you need for swift SaaS startup launch, including - Auth, Database, Sanity Blog, Essential Components, Pages and More. Built-winth - Next.js 13, React 18 and TypeScript.
+              Welcome to Horizon Info Tech, your premier SaaS provider offering cutting-edge solutions across web, Android, and iOS platforms. With a dynamic range of software offerings, we cater to diverse industries including e-commerce, point of sale (POS), CRM, and ERP. Elevate your business with our innovative technology and drive efficiency like never before.
               </p>
 
               <div className="mt-10">
@@ -36,20 +36,21 @@ Solid Pro - Packed with all the key integrations you need for swift SaaS startup
                       value={email}
                       onChange={(e) => setEmail(e.target.value)}
                       type="text"
-                      placeholder="Enter your email address"
+                      placeholder="Enter your Phone"
                       className="dark:bg-black border border-stroke dark:border-strokedark shadow-solid-2 dark:shadow-none rounded-full focus:outline-none focus:border-primary dark:focus:border-primary py-2.5 px-6"
                     />
                     <button
                       aria-label="signup to newsletter"
                       className="flex bg-black hover:bg-blackho dark:bg-btndark text-white rounded-full ease-in-out duration-300 px-7.5 py-2.5"
+                      onClick={()=>{window.location.href=`tel:${+660932503470}`}}
                     >
-                      Get Started
+                      Call Us
                     </button>
                   </div>
                 </form>
 
                 <p className="text-black dark:text-white mt-5">
-                  Try for free no credit card required.
+                  Get an SAAS free Quotation from Us
                 </p>
               </div>
             </div>
@@ -80,13 +81,13 @@ Solid Pro - Packed with all the key integrations you need for swift SaaS startup
                 <div className=" relative aspect-[700/444] w-full">
                   <Image
                     className="dark:hidden shadow-solid-l"
-                    src="/images/hero/hero-light.svg"
+                    src="/image7.gif"
                     alt="Hero"
                     fill
                   />
                   <Image
                     className="hidden dark:block shadow-solid-l"
-                    src="/images/hero/hero-dark.svg"
+                    src="/another.gif"
                     alt="Hero"
                     fill
                   />

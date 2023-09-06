@@ -39,18 +39,18 @@ const Header = () => {
         <div className="w-full lg:w-1/4 flex items-center justify-between">
           <a href="/">
             <Image
-              src="/images/logo/logo-dark.svg"
+              src="/horizon.png"
               alt="logo"
               width={119.03}
               height={30}
-              className="w-full hidden dark:block"
+              className="w-full hidden dark:hidden"
             />
             <Image
-              src="/images/logo/logo-light.svg"
+              src="/horizon.png"
               alt="logo"
               width={119.03}
               height={30}
-              className="w-full dark:hidden"
+              className="w-full  dark:hidden"
             />
           </a>
 
@@ -158,15 +158,10 @@ const Header = () => {
               href="https://github.com/NextJSTemplates/solid-nextjs"
               className="text-waterloo text-regular font-medium hover:text-primary"
             >
-            GitHub Repo 🌟
+            GITHUB HORIZON
             </Link>
 
-            <Link
-              href="https://nextjstemplates.com/templates/solid"
-              className="flex items-center justify-center bg-primary hover:bg-primaryho ease-in-out duration-300 text-white text-regular rounded-full py-2.5 px-7.5"
-            >
-              Get Pro 🔥
-            </Link>
+            
           </div>
         </div>
       </div>

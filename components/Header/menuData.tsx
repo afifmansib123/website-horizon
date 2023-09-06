@@ -9,19 +9,19 @@ const menuData: Menu[] = [
   },
   {
     id: 2,
-    title: "Features",
+    title: "Services",
     newTab: false,
     path: "/#features"
   },
   {
     id: 2.1,
-    title: "Blog",
+    title: "News",
     newTab: false,
     path: "/blog"
   },
   {
     id: 2.3,
-    title: "Docs",
+    title: "Dev-Docs",
     newTab: false,
     path: "/docs"
   },
@@ -71,7 +71,7 @@ const menuData: Menu[] = [
 
   {
     id: 4,
-    title: "Support",
+    title: "Contact Us",
     newTab: false,
     path: "/support"
   },
